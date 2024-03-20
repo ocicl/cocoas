@@ -4,7 +4,7 @@ A toolkit library to help deal with CoreFoundation, Cocoa, and objc
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/shinmera/cocoas.git |
-| commit  | 611be89                                    |
+| commit  | cd9ac5c                                    |
 | systems | cocoas                                     |
 |---------+--------------------------------------------|
 
